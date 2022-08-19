@@ -1,2 +1,2 @@
 # articles-api
-Custom express API build using mongoose.
+Simple custom express API with CRUD routes, build using mongoose.
